@@ -3,6 +3,10 @@ name: xiaohongshu-insights
 description: 小红书竞品洞察分析工具，实时监测竞品流量效果、快速拆解对标竞对作品、精准拆解透视竞品流量及策略、高效搭建关键词库，适用于小红书品牌方、创作者等进行竞品分析、流量优化和关键词研究。支持四大能力：(1) 关键词搜索笔记/视频，可按点赞数、评论数、收藏数、发布时间、内容类型筛选排序；(2) 博主作品抓取，按主页链接获取博主的互动数据（粉丝量、点赞量或收藏量等）或公开作品列表；(3) 笔记（视频）详情，获取详情数据及互动数据等，分析笔记的市场表现；(4) 笔记评论分析，按笔记链接获取评论内容与互动数据。用户提到小红书/xhs/rednote 且需要查数据、市场调研、舆情监测、做选题、竞品监控、KOL筛选、舆情分析时调用；无需登录账号
 license: MIT
 version: 1.1.4
+display_name: 🎯小红书竞品洞察分析
+display_name_en: XiaoHongShu Competitor Insight Analysis
+description_zh: 小红书竞品洞察分析工具，实时监测竞品流量效果、快速拆解对标竞对作品、精准拆解透视竞品流量及策略、高效搭建关键词库，适用于小红书品牌方、创作者等进行竞品分析、流量优化和关键词研究。
+description_en: XiaoHongShu Competitor Insight Analysis Tool. It monitors competitors' traffic performance in real time, quickly dissects benchmark competitors’ content, accurately analyzes competitors’ traffic and strategies, and efficiently builds keyword libraries. It is suitable for XiaoHongShu brands and creators to conduct competitor analysis, traffic optimization and keyword research.
 platforms: [WorkBuddy, Openclaw, TraeWork, Qoder, Hermes, ima, Claude Code, Cursor]
 homepage: https://github.com/um-why/xiaohongshu-openclaw-skill
 metadata:
